@@ -31,6 +31,10 @@ Easy Download helps you manage the files you offer to your users for download. T
 
 ## Changelog
 
+### 1.3.3 (2025-12-29)
+
+- Code revision and optimization  
+
 ### 1.3.2 (2025-11-19)
 
 - Fontawesome update
