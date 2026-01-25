@@ -3,7 +3,7 @@ Contributors: NeosLab
 Tags: download manager, document management, file manager, document management plugin, download monitor
 Requires at least: 4.9
 Tested up to: 6.8.3
-Stable tag: 1.3.3
+Stable tag: 1.3.4
 License URI: https://raw.githubusercontent.com/neoslab/easy-download/refs/heads/main/LICENSE
 
 Easy Download help you to manage the files you offer to your users to download.
@@ -25,6 +25,26 @@ Easy Download help you to manage the files you offer to your users to download. 
 3. The table regrouping all the links that can be downloaded from your site.
 
 == Changelog ==
+
+= 1.3.4 (2026-01-25) =
+* Corrected download redirection issue where binary files (like .deb packages) were opening in browser instead of downloading
+* Proper MIME type detection system with `get_content_type()` helper function for 17+ file formats
+* File serving mechanism now streams content directly through PHP for better download control
+* Added Content-Disposition header with `attachment` flag to force file downloads
+* Implemented binary content transfer encoding for proper handling of executable files
+* Added chunked reading for large remote files (8KB chunks) to prevent memory issues
+* Added `basename()` usage to prevent directory traversal attacks in filename headers
+* SSL context configuration for secure remote file fetching from HTTPS sources
+* Fallback mechanism to redirect if file streaming fails
+* Cache control headers for better download performance and compatibility
+* Content-Length header for local files to provide accurate download progress
+* Error handling for both remote URLs and local file paths
+* Changed from simple `header("Location:...")` to proper download headers
+* Added support for streaming remote files with timeout and SSL options
+* Implemented proper MIME types for common file formats (.deb, .exe, .zip, etc.)
+* Maintained backward compatibility with existing statistics tracking system
+
+* Code revision and optimization
 
 = 1.3.3 (2025-12-29) =
 * Code revision and optimization
