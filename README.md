@@ -31,7 +31,7 @@ Easy Download helps you manage the files you offer to your users for download. T
 
 ## Changelog
 
-### 1.3.4 (2026-01-25)
+### 1.3.5 (2026-03-03)
 
 - Corrected download redirection issue where binary files (like .deb packages) were opening in browser instead of downloading
 - Proper MIME type detection system with `get_content_type()` helper function for 17+ file formats
@@ -49,8 +49,19 @@ Easy Download helps you manage the files you offer to your users for download. T
 - Added support for streaming remote files with timeout and SSL options
 - Implemented proper MIME types for common file formats (.deb, .exe, .zip, etc.)
 - Maintained backward compatibility with existing statistics tracking system
+- Fontawesome update
+- Updated ES translation
+- Updated FR translation
+- Updated ID translation
+- Updated IT translation
+- Updated PT translation
+- Code revision and optimization
 
-### 1.3.3 (2025-12-29)
+### 1.3.4 (2025-12-19)
+
+- Code revision and optimization  
+
+### 1.3.3 (2025-12-17)
 
 - Code revision and optimization  
 

@@ -2,8 +2,8 @@
 Contributors: NeosLab
 Tags: download manager, document management, file manager, document management plugin, download monitor
 Requires at least: 4.9
-Tested up to: 6.8.3
-Stable tag: 1.3.4
+Tested up to: 6.9.1
+Stable tag: 1.3.5
 License URI: https://raw.githubusercontent.com/neoslab/easy-download/refs/heads/main/LICENSE
 
 Easy Download help you to manage the files you offer to your users to download.
@@ -26,7 +26,7 @@ Easy Download help you to manage the files you offer to your users to download. 
 
 == Changelog ==
 
-= 1.3.4 (2026-01-25) =
+= 1.3.5 (2026-03-03) =
 * Corrected download redirection issue where binary files (like .deb packages) were opening in browser instead of downloading
 * Proper MIME type detection system with `get_content_type()` helper function for 17+ file formats
 * File serving mechanism now streams content directly through PHP for better download control
@@ -43,10 +43,18 @@ Easy Download help you to manage the files you offer to your users to download. 
 * Added support for streaming remote files with timeout and SSL options
 * Implemented proper MIME types for common file formats (.deb, .exe, .zip, etc.)
 * Maintained backward compatibility with existing statistics tracking system
-
+* Fontawesome update
+* Updated ES translation
+* Updated FR translation
+* Updated ID translation
+* Updated IT translation
+* Updated PT translation
 * Code revision and optimization
 
-= 1.3.3 (2025-12-29) =
+= 1.3.4 (2025-12-29) =
+* Code revision and optimization
+
+= 1.3.3 (2025-12-17) =
 * Code revision and optimization
 
 = 1.3.2 (2025-11-19) =

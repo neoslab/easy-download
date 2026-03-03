@@ -5,138 +5,137 @@ msgstr ""
 "Project-Id-Version: Easy Download 1.3.5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-download\n"
 "POT-Creation-Date: 2026-03-03 13:13:52+00:00\n"
+"PO-Revision-Date: 2026-03-03 14:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: admin/class-easy-download-admin.php:87
 msgid "Easy Download"
-msgstr ""
+msgstr "Easy Download"
 
 #: admin/class-easy-download-admin.php:99
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 #: admin/class-easy-download-admin.php:100
 msgid "Add Form"
-msgstr ""
+msgstr "Tambah Formulir"
 
 #: admin/class-easy-download-admin.php:101
 msgid "Links"
-msgstr ""
+msgstr "Tautan"
 
 #: admin/class-easy-download-admin.php:171
 msgid "Downloads in the past 5 days"
-msgstr ""
+msgstr "Unduhan dalam 5 hari terakhir"
 
 #: admin/partials/easy-download-admin-form.php:6
 msgid "The link submitted is not valid !!"
-msgstr ""
+msgstr "Tautan yang dikirimkan tidak valid!!"
 
 #: admin/partials/easy-download-admin-form.php:26
 msgid "In order to create a new download link, simply use the below form and indicate the absolute URL of the file you want to add."
-msgstr ""
+msgstr "Untuk membuat tautan unduhan baru, cukup gunakan formulir di bawah ini dan tentukan URL absolut dari file yang ingin Anda tambahkan."
 
 #: admin/partials/easy-download-admin-form.php:35
 #: admin/partials/easy-download-admin-links.php:29
 #: admin/partials/easy-download-admin-links.php:73
 msgid "Link"
-msgstr ""
+msgstr "Tautan"
 
 #: admin/partials/easy-download-admin-form.php:36
 msgid "Enter link to add in the database"
-msgstr ""
+msgstr "Masukkan tautan untuk ditambahkan ke database"
 
 #: admin/partials/easy-download-admin-form.php:37
 msgid "Enter the link you want to add into the database (Must be a valid URL)."
-msgstr ""
+msgstr "Masukkan tautan yang ingin Anda tambahkan ke database (Harus berupa URL yang valid)."
 
 #: admin/partials/easy-download-admin-form.php:40
 msgid "Add Link Now"
-msgstr ""
+msgstr "Tambah Tautan Sekarang"
 
 #: admin/partials/easy-download-admin-links.php:4
 msgid "Your link have been successfully added."
-msgstr ""
+msgstr "Tautan Anda berhasil ditambahkan."
 
 #: admin/partials/easy-download-admin-links.php:8
 msgid "Your link have been successfully deleted."
-msgstr ""
+msgstr "Tautan Anda berhasil dihapus."
 
 #: admin/partials/easy-download-admin-links.php:30
 #: admin/partials/easy-download-admin-links.php:74
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: admin/partials/easy-download-admin-links.php:31
 #: admin/partials/easy-download-admin-links.php:75
 msgid "Click"
-msgstr ""
+msgstr "Klik"
 
 #: admin/partials/easy-download-admin-links.php:32
 #: admin/partials/easy-download-admin-links.php:76
 msgid "Operate"
-msgstr ""
+msgstr "Operasi"
 
 #: admin/partials/easy-download-admin-links.php:62
 msgid "Remove"
-msgstr ""
+msgstr "Hapus"
 
 #: admin/partials/easy-download-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr ""
+msgstr "Pengaturan Anda berhasil diperbarui."
 
 #: admin/partials/easy-download-admin-options.php:10
 #: admin/partials/easy-download-admin-options.php:14
 msgid "An unknown error occured !!"
-msgstr ""
+msgstr "Terjadi kesalahan yang tidak diketahui!!"
 
 #: admin/partials/easy-download-admin-options.php:34
 msgid "You have not set up your Easy Download options ! In order to do so, please use the below form."
-msgstr ""
+msgstr "Anda belum mengatur opsi Unduhan Mudah! Untuk melakukannya, silakan gunakan formulir di bawah ini."
 
 #: admin/partials/easy-download-admin-options.php:39
 msgid "Your plugin is properly configured ! You can change at anytime your plugin options using the below form."
-msgstr ""
+msgstr "Plugin Anda telah dikonfigurasi dengan benar! Anda dapat mengubah kapan saja opsi plugin menggunakan formulir di bawah ini."
 
 #: admin/partials/easy-download-admin-options.php:48
 msgid "Download Stats"
-msgstr ""
+msgstr "Statistik Unduhan"
 
 #: admin/partials/easy-download-admin-options.php:56
 msgid "Do you want to activate the Easy Download features?"
-msgstr ""
+msgstr "Apakah Anda ingin mengaktifkan fitur Unduhan Mudah?"
 
 #: admin/partials/easy-download-admin-options.php:61
 msgid "Stats Widget"
-msgstr ""
+msgstr "Widget Statistik"
 
 #: admin/partials/easy-download-admin-options.php:69
 msgid "Do you want to display the download stats on the admin dashboard?"
-msgstr ""
+msgstr "Apakah Anda ingin menampilkan statistik unduhan di dasbor admin?"
 
 #: admin/partials/easy-download-admin-options.php:73
 msgid "Update Settings"
-msgstr ""
-#. Plugin Name of the plugin/theme
-msgid "Easy Download"
-msgstr ""
+msgstr "Perbarui Pengaturan"
 
 #. Plugin URI of the plugin/theme
 msgid "https://wordpress.org/plugins/easy-download/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/easy-download/"
 
 #. Description of the plugin/theme
 msgid "Easy Download help you to manage the files you offer to your users to download."
-msgstr ""
+msgstr "Unduhan Mudah membantu Anda mengelola file yang Anda tawarkan kepada pengguna untuk diunduh."
 
 #. Author of the plugin/theme
 msgid "NeosLab"
-msgstr ""
+msgstr "NeosLab"
 
 #. Author URI of the plugin/theme
 msgid "https://neoslab.com"
-msgstr ""
+msgstr "https://neoslab.com"

@@ -5,138 +5,137 @@ msgstr ""
 "Project-Id-Version: Easy Download 1.3.5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-download\n"
 "POT-Creation-Date: 2026-03-03 13:13:52+00:00\n"
+"PO-Revision-Date: 2026-03-03 14:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: admin/class-easy-download-admin.php:87
 msgid "Easy Download"
-msgstr ""
+msgstr "Easy Download"
 
 #: admin/class-easy-download-admin.php:99
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 #: admin/class-easy-download-admin.php:100
 msgid "Add Form"
-msgstr ""
+msgstr "Aggiungi Modulo"
 
 #: admin/class-easy-download-admin.php:101
 msgid "Links"
-msgstr ""
+msgstr "Link"
 
 #: admin/class-easy-download-admin.php:171
 msgid "Downloads in the past 5 days"
-msgstr ""
+msgstr "Download negli ultimi 5 giorni"
 
 #: admin/partials/easy-download-admin-form.php:6
 msgid "The link submitted is not valid !!"
-msgstr ""
+msgstr "Il link inviato non è valido!!"
 
 #: admin/partials/easy-download-admin-form.php:26
 msgid "In order to create a new download link, simply use the below form and indicate the absolute URL of the file you want to add."
-msgstr ""
+msgstr "Per creare un nuovo link di download, utilizza semplicemente il modulo sottostante e indica l'URL assoluto del file che desideri aggiungere."
 
 #: admin/partials/easy-download-admin-form.php:35
 #: admin/partials/easy-download-admin-links.php:29
 #: admin/partials/easy-download-admin-links.php:73
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: admin/partials/easy-download-admin-form.php:36
 msgid "Enter link to add in the database"
-msgstr ""
+msgstr "Inserisci il link da aggiungere nel database"
 
 #: admin/partials/easy-download-admin-form.php:37
 msgid "Enter the link you want to add into the database (Must be a valid URL)."
-msgstr ""
+msgstr "Inserisci il link che desideri aggiungere nel database (Deve essere un URL valido)."
 
 #: admin/partials/easy-download-admin-form.php:40
 msgid "Add Link Now"
-msgstr ""
+msgstr "Aggiungi Link Ora"
 
 #: admin/partials/easy-download-admin-links.php:4
 msgid "Your link have been successfully added."
-msgstr ""
+msgstr "Il tuo link è stato aggiunto con successo."
 
 #: admin/partials/easy-download-admin-links.php:8
 msgid "Your link have been successfully deleted."
-msgstr ""
+msgstr "Il tuo link è stato eliminato con successo."
 
 #: admin/partials/easy-download-admin-links.php:30
 #: admin/partials/easy-download-admin-links.php:74
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: admin/partials/easy-download-admin-links.php:31
 #: admin/partials/easy-download-admin-links.php:75
 msgid "Click"
-msgstr ""
+msgstr "Click"
 
 #: admin/partials/easy-download-admin-links.php:32
 #: admin/partials/easy-download-admin-links.php:76
 msgid "Operate"
-msgstr ""
+msgstr "Operazioni"
 
 #: admin/partials/easy-download-admin-links.php:62
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 #: admin/partials/easy-download-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr ""
+msgstr "Le tue impostazioni sono state aggiornate con successo."
 
 #: admin/partials/easy-download-admin-options.php:10
 #: admin/partials/easy-download-admin-options.php:14
 msgid "An unknown error occured !!"
-msgstr ""
+msgstr "Si è verificato un errore sconosciuto!!"
 
 #: admin/partials/easy-download-admin-options.php:34
 msgid "You have not set up your Easy Download options ! In order to do so, please use the below form."
-msgstr ""
+msgstr "Non hai impostato le tue opzioni di Download Facile! Per farlo, utilizza il modulo sottostante."
 
 #: admin/partials/easy-download-admin-options.php:39
 msgid "Your plugin is properly configured ! You can change at anytime your plugin options using the below form."
-msgstr ""
+msgstr "Il tuo plugin è configurato correttamente! Puoi modificare in qualsiasi momento le opzioni del plugin utilizzando il modulo sottostante."
 
 #: admin/partials/easy-download-admin-options.php:48
 msgid "Download Stats"
-msgstr ""
+msgstr "Statistiche Download"
 
 #: admin/partials/easy-download-admin-options.php:56
 msgid "Do you want to activate the Easy Download features?"
-msgstr ""
+msgstr "Vuoi attivare le funzionalità di Download Facile?"
 
 #: admin/partials/easy-download-admin-options.php:61
 msgid "Stats Widget"
-msgstr ""
+msgstr "Widget Statistiche"
 
 #: admin/partials/easy-download-admin-options.php:69
 msgid "Do you want to display the download stats on the admin dashboard?"
-msgstr ""
+msgstr "Vuoi visualizzare le statistiche di download nella dashboard di amministrazione?"
 
 #: admin/partials/easy-download-admin-options.php:73
 msgid "Update Settings"
-msgstr ""
-#. Plugin Name of the plugin/theme
-msgid "Easy Download"
-msgstr ""
+msgstr "Aggiorna Impostazioni"
 
 #. Plugin URI of the plugin/theme
 msgid "https://wordpress.org/plugins/easy-download/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/easy-download/"
 
 #. Description of the plugin/theme
 msgid "Easy Download help you to manage the files you offer to your users to download."
-msgstr ""
+msgstr "Download Facile ti aiuta a gestire i file che offri ai tuoi utenti da scaricare."
 
 #. Author of the plugin/theme
 msgid "NeosLab"
-msgstr ""
+msgstr "NeosLab"
 
 #. Author URI of the plugin/theme
 msgid "https://neoslab.com"
-msgstr ""
+msgstr "https://neoslab.com"
