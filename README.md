@@ -31,6 +31,11 @@ Easy Download helps you manage the files you offer to your users for download. T
 
 ## Changelog
 
+### 1.3.6 (2026-06-02)
+
+- Fontawesome update
+- Code revision and optimization
+
 ### 1.3.5 (2026-03-03)
 
 - Corrected download redirection issue where binary files (like .deb packages) were opening in browser instead of downloading

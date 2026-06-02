@@ -3,7 +3,7 @@ Contributors: NeosLab
 Tags: download manager, document management, file manager, document management plugin, download monitor
 Requires at least: 4.9
 Tested up to: 6.9.1
-Stable tag: 1.3.5
+Stable tag: 1.3.6
 License URI: https://raw.githubusercontent.com/neoslab/easy-download/refs/heads/main/LICENSE
 
 Easy Download help you to manage the files you offer to your users to download.
@@ -25,6 +25,10 @@ Easy Download help you to manage the files you offer to your users to download. 
 3. The table regrouping all the links that can be downloaded from your site.
 
 == Changelog ==
+
+= 1.3.6 (2026-06-02) =
+* Fontawesome update
+* Code revision and optimization
 
 = 1.3.5 (2026-03-03) =
 * Corrected download redirection issue where binary files (like .deb packages) were opening in browser instead of downloading
